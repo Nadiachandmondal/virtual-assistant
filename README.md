@@ -37,4 +37,6 @@ To create a browser-based Siri-like AI assistant that demonstrates real-time voi
 "Search AI technology"
 👨‍💻 Developer
 
+Link for Live - voice-assistent-4151a9.netlify.app
+
 Created by Nadia Chand

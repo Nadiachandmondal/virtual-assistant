@@ -1,3 +1,5 @@
+![Alt Text](banner.png)
+
 # virtual-assistant
 🤖 AI Virtual Voice Assistant (google voice assistant -like)
 
